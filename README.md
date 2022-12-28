@@ -22,10 +22,10 @@ Graph Databases: 	AWS Neptune, Neo4J
 - [Run PySpark programs locally in 10 minutes.](https://medium.com/@jitendrasharma42/run-pyspark-programs-locally-in-10-minutes-cf95c9490825?source=rss-290f348339a5------2)
 <!-- BLOG-POST-LIST:END -->
 ---
-[![Jitendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsharma-cn)](https://github.com/jsharma-cn/github-readme-stats&show_icons=true)
+[![Jitendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsharma-cn)](https://github.com/jsharma-cn/github-readme-stats&show_icons=true&bg_color=00000000)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsharma-cn&layout=compact)](https://github.com/jsharma-cn/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsharma-cn&layout=compact)](https://github.com/jsharma-cn/github-readme-stats&bg_color=00000000)
 <!--
 **jsharma-cn/jsharma-cn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
