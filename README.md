@@ -16,6 +16,9 @@ Graph Databases: 	AWS Neptune, Neo4J
 
 - **Technology & Framework Stack**: 	Java, SpringBoot, Hibernate, GraphQL, Python, Nodejs, JavaScript, and Design Patterns.
 
+### Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 <!--
 **jsharma-cn/jsharma-cn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
