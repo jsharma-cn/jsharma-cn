@@ -16,7 +16,7 @@ Graph Databases: 	AWS Neptune, Neo4J
 
 - **Technology & Framework Stack**: 	Java, SpringBoot, Hibernate, GraphQL, Python, Nodejs, JavaScript, and Design Patterns.
 
-### Blog posts
+### Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Amazon Elastic Kubernetes Service &lpar;Amazon EKS&rpar;- A Kubernetes container service on a cloud](https://medium.com/@jitendrasharma42/amazon-elastic-kubernetes-service-amazon-eks-a-kubernetes-container-service-on-a-cloud-be63fd08a983?source=rss-290f348339a5------2)
 - [Run PySpark programs locally in 10 minutes.](https://medium.com/@jitendrasharma42/run-pyspark-programs-locally-in-10-minutes-cf95c9490825?source=rss-290f348339a5------2)
