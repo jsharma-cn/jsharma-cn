@@ -6,6 +6,16 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Curious to know new things and tried to help people.... 
 
+### Tools & Technology
+- **BigData Infra/Tools**:	Hadoop, Hbase, Spark, BigQuery, Hive, Presto, Airflow, DataBricks, DBT, Fivetran, Kubernetes
+
+- **Databases**: 	Oracle, MYSQL, Mongo-DB, Postgres, Redis, DynamoDB
+Graph Databases: 	AWS Neptune, Neo4J
+- **Tools**: 	DataBricks, Confluent Kafka, Avo(Schema Governance), Airflow, Astronomer, Datadog, Splunk, Jupyter TFS, AWS, Docker, Git, Bitbucket. Amundson, Great Expectations, Deeque, MQ, Avro, Parquet, Protobuf.
+- **Cloud Infra**:	AWS, Google Cloud
+
+- **Technology & Framework Stack**: 	Java, SpringBoot, Hibernate, GraphQL, Python, Nodejs, JavaScript, and Design Patterns.
+
 <!--
 **jsharma-cn/jsharma-cn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
