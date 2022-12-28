@@ -1,3 +1,4 @@
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jsharma-cn.visitor-badge)
 ### Hi there 👋
 
 - 🔭 I’m currently working on how to democratize data and derive impactful insight.
