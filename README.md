@@ -21,6 +21,11 @@ Graph Databases: 	AWS Neptune, Neo4J
 - [Amazon Elastic Kubernetes Service &lpar;Amazon EKS&rpar;- A Kubernetes container service on a cloud](https://medium.com/@jitendrasharma42/amazon-elastic-kubernetes-service-amazon-eks-a-kubernetes-container-service-on-a-cloud-be63fd08a983?source=rss-290f348339a5------2)
 - [Run PySpark programs locally in 10 minutes.](https://medium.com/@jitendrasharma42/run-pyspark-programs-locally-in-10-minutes-cf95c9490825?source=rss-290f348339a5------2)
 <!-- BLOG-POST-LIST:END -->
+---
+[![Jitendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsharma-cn)](https://github.com/jsharma-cn/github-readme-stats&show_icons=true)
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsharma-cn&layout=compact)](https://github.com/jsharma-cn/github-readme-stats)
 <!--
 **jsharma-cn/jsharma-cn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
