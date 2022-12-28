@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on how to democratize data in a organization so that it would be accessibe to all downstream team.
+- 🌱 I’m currently learning on to build user jurney based on collected data. Capture all user events on various applications etc.
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/jitendra-sharma-6a863419/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Curious to know new things and tried to help people.... 
+
 <!--
 **jsharma-cn/jsharma-cn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
